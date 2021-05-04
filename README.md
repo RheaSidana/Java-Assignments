@@ -1,2 +1,2 @@
-# Java-Assignments
+# Java
 Java Assignments, Projects, etc.
